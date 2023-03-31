@@ -13,4 +13,10 @@ class Car
 		);
 	}
 
+	public function Brake()
+	{
+		return "Ola";
+	}
+
+
 }
