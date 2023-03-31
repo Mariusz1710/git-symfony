@@ -9,7 +9,7 @@ class Car
 	{
 		return new Response
 		(
-			'<html><body>I go 50 km/h</body></html>'
+			'<html><body>Hello World!</body></html>'
 		);
 	}
 
