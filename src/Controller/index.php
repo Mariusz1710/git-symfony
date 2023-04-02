@@ -9,7 +9,7 @@ class Car
 	{
 		return new Response
 		(
-			'<html><body>Hello France!</body></html>'
+			'<html><body>Hello Poland!</body></html>'
 		);
 	}
 
