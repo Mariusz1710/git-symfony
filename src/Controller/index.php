@@ -13,10 +13,11 @@ class Car
 		);
 	}
 
-	public function Brake()
+	public function Sex()
 	{
-		return "Ola";
+		return "I would fuck Ola";
 	}
 
+	
 
 }
